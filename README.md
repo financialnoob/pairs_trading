@@ -9,3 +9,4 @@ experiments with pair trading
 6. https://medium.com/@financialnoob/pairs-trading-pair-selection-cointegration-part-3-72d8f5d6a440
 7. https://medium.com/@financialnoob/pairs-trading-with-support-vector-machines-6cd27c051451
 8. https://medium.com/@financialnoob/pairs-trading-with-ornstein-uhlenbeck-process-part-1-cf7f9b532f5d
+9. https://medium.com/@financialnoob/pairs-trading-with-ornstein-uhlenbeck-process-part-2-225bec1aea20

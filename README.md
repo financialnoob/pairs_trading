@@ -13,3 +13,4 @@ Medium:
 9. https://medium.com/@financialnoob/pairs-trading-with-ornstein-uhlenbeck-process-part-2-225bec1aea20
 10. https://medium.com/@financialnoob/pairs-trading-modeling-the-spread-with-mean-reverting-gaussian-markov-chain-model-7ca3bb897214
 11. https://medium.com/@financialnoob/pairs-trading-with-copulas-5fec8016e245
+12. https://medium.com/@financialnoob/pairs-trading-with-markov-regime-switching-5664be1ac33f

@@ -15,3 +15,4 @@ Medium:
 11. https://medium.com/@financialnoob/pairs-trading-with-copulas-5fec8016e245
 12. https://medium.com/@financialnoob/pairs-trading-with-markov-regime-switching-5664be1ac33f
 13. https://medium.com/@financialnoob/quasi-multivariate-pairs-trading-466e60196794
+14. https://medium.com/@financialnoob/granger-causality-test-in-pairs-trading-bf2fd939e575

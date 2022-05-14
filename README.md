@@ -16,3 +16,4 @@ Medium:
 12. https://medium.com/@financialnoob/pairs-trading-with-markov-regime-switching-5664be1ac33f
 13. https://medium.com/@financialnoob/quasi-multivariate-pairs-trading-466e60196794
 14. https://medium.com/@financialnoob/granger-causality-test-in-pairs-trading-bf2fd939e575
+15. https://medium.com/@financialnoob/cointegration-based-multivariate-statistical-arbitrage-339adcbe314

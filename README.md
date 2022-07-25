@@ -18,3 +18,4 @@ Medium:
 14. https://medium.com/@financialnoob/granger-causality-test-in-pairs-trading-bf2fd939e575
 15. https://medium.com/@financialnoob/cointegration-based-multivariate-statistical-arbitrage-339adcbe314
 16. https://medium.com/@financialnoob/pairs-trading-modeling-the-spread-as-gaussian-state-space-model-with-exogenous-inputs-aa419e1ee462
+17. https://medium.com/@financialnoob/pairs-trading-analysis-of-several-pair-selection-methods-and-trading-strategies-33d408f31ba8

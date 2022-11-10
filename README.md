@@ -20,3 +20,4 @@ Medium:
 16. https://medium.com/@financialnoob/pairs-trading-modeling-the-spread-as-gaussian-state-space-model-with-exogenous-inputs-aa419e1ee462
 17. https://medium.com/@financialnoob/pairs-trading-analysis-of-several-pair-selection-methods-and-trading-strategies-33d408f31ba8
 18. https://medium.com/@financialnoob/pairs-trading-with-kagi-indicator-44653395865a
+19. https://medium.com/@financialnoob/pairs-trading-with-cointegrated-logistic-mixture-autoregressive-lmar-model-65ce563d58e8

@@ -22,3 +22,4 @@ Medium:
 18. https://medium.com/@financialnoob/pairs-trading-with-kagi-indicator-44653395865a
 19. https://medium.com/@financialnoob/pairs-trading-with-cointegrated-logistic-mixture-autoregressive-lmar-model-65ce563d58e8
 20. https://medium.com/@financialnoob/pairs-trading-with-partial-cointegration-11674f791a99
+21. https://medium.com/@financialnoob/pairs-trading-with-wavelet-transform-2d94ff400abb

@@ -1,6 +1,18 @@
 # pairs_trading
 experiments with pair trading
 
+financialnoob.me:
+1. https://financialnoob.me/pairs-trading-introduction/
+2. https://financialnoob.me/pairs-trading-pair-selection-distance-part-1/
+3. https://financialnoob.me/pairs-trading-pair-selection-distance-part-2/
+4. https://financialnoob.me/pairs-trading-pair-selection-cointegration-part-1/
+5. https://financialnoob.me/pairs-trading-pair-selection-cointegration-part-2/
+6. https://financialnoob.me/pairs-trading-pair-selection-cointegration-part-3/
+7. https://financialnoob.me/pairs-trading-with-support-vector-machines/
+8. https://financialnoob.me/pairs-trading-with-ornstein-uhlenbeck-process-part-1/
+9. https://financialnoob.me/pairs-trading-with-ornstein-uhlenbeck-process-part-2/
+10. https://financialnoob.me/pairs-trading-modeling-the-spread-with-mean-reverting-gaussian-markov-chain-model/
+
 Medium:
 1. https://medium.com/@financialnoob/pairs-trading-introduction-f495c9218216
 2. https://medium.com/@financialnoob/pairs-trading-pair-selection-distance-5ac4aeef0de0

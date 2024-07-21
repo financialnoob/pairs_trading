@@ -1,6 +1,16 @@
 # pairs_trading
 experiments with pair trading
 
+substack:
+1. https://financialnoob.substack.com/p/pairs-trading-introduction
+2. https://financialnoob.substack.com/p/pairs-trading-pair-selection-distance
+3. https://financialnoob.substack.com/p/pairs-trading-pair-selection-distance-1b6
+4. https://financialnoob.substack.com/p/pairs-trading-pair-selection-cointegration
+5. https://financialnoob.substack.com/p/pairs-trading-pair-selection-cointegration-9fc
+6. https://financialnoob.substack.com/p/pairs-trading-pair-selection-cointegration-b0b
+
+--
+
 1. https://financialnoob.me/pairs-trading-introduction/
 2. https://financialnoob.me/pairs-trading-pair-selection-distance-part-1/
 3. https://financialnoob.me/pairs-trading-pair-selection-distance-part-2/

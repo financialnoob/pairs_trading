@@ -8,6 +8,7 @@ substack:
 4. https://financialnoob.substack.com/p/pairs-trading-pair-selection-cointegration
 5. https://financialnoob.substack.com/p/pairs-trading-pair-selection-cointegration-9fc
 6. https://financialnoob.substack.com/p/pairs-trading-pair-selection-cointegration-b0b
+7. https://financialnoob.substack.com/p/pairs-trading-with-support-vector
 
 --
 

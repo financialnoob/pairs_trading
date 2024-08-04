@@ -12,5 +12,7 @@ substack:
 8. https://financialnoob.substack.com/p/pairs-trading-with-ornstein-uhlenbeck
 9. https://financialnoob.substack.com/p/pairs-trading-with-ornstein-uhlenbeck-1ae
 10. https://financialnoob.substack.com/p/pairs-trading-modeling-the-spread
-11. 
-
+11. https://financialnoob.substack.com/p/pairs-trading-with-copulas
+12. https://financialnoob.substack.com/p/pairs-trading-with-markov-regime
+13. https://financialnoob.substack.com/p/quasi-multivariate-pairs-trading
+14. 

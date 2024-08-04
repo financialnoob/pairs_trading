@@ -11,5 +11,6 @@ substack:
 7. https://financialnoob.substack.com/p/pairs-trading-with-support-vector
 8. https://financialnoob.substack.com/p/pairs-trading-with-ornstein-uhlenbeck
 9. https://financialnoob.substack.com/p/pairs-trading-with-ornstein-uhlenbeck-1ae
-10. 
+10. https://financialnoob.substack.com/p/pairs-trading-modeling-the-spread
+11. 
 

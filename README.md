@@ -15,4 +15,6 @@ substack:
 11. https://financialnoob.substack.com/p/pairs-trading-with-copulas
 12. https://financialnoob.substack.com/p/pairs-trading-with-markov-regime
 13. https://financialnoob.substack.com/p/quasi-multivariate-pairs-trading
-14. 
+14. https://financialnoob.substack.com/p/granger-causality-test-in-pairs-trading
+15. https://financialnoob.substack.com/p/cointegration-based-multivariate
+16. 

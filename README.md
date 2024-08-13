@@ -17,4 +17,6 @@ substack:
 13. https://financialnoob.substack.com/p/quasi-multivariate-pairs-trading
 14. https://financialnoob.substack.com/p/granger-causality-test-in-pairs-trading
 15. https://financialnoob.substack.com/p/cointegration-based-multivariate
-16. 
+16. https://financialnoob.substack.com/p/pairs-trading-modeling-the-spread-907
+17. https://financialnoob.substack.com/p/pairs-trading-analysis-of-several
+18. 

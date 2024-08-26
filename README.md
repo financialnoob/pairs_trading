@@ -19,4 +19,8 @@ substack:
 15. https://financialnoob.substack.com/p/cointegration-based-multivariate
 16. https://financialnoob.substack.com/p/pairs-trading-modeling-the-spread-907
 17. https://financialnoob.substack.com/p/pairs-trading-analysis-of-several
-18. 
+18. https://financialnoob.substack.com/p/pairs-trading-with-kagi-indicator
+19. https://financialnoob.substack.com/p/pairs-trading-with-cointegrated-logistic
+20. https://financialnoob.substack.com/p/pairs-trading-with-partial-cointegration
+21. https://financialnoob.substack.com/p/pairs-trading-with-wavelet-transform
+22. 

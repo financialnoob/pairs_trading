@@ -23,4 +23,5 @@ substack:
 19. https://financialnoob.substack.com/p/pairs-trading-with-cointegrated-logistic
 20. https://financialnoob.substack.com/p/pairs-trading-with-partial-cointegration
 21. https://financialnoob.substack.com/p/pairs-trading-with-wavelet-transform
-22. 
+22. https://financialnoob.substack.com/p/statistical-arbitrage-with-graph
+23. 

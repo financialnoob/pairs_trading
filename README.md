@@ -24,4 +24,5 @@ substack:
 20. https://financialnoob.substack.com/p/pairs-trading-with-partial-cointegration
 21. https://financialnoob.substack.com/p/pairs-trading-with-wavelet-transform
 22. https://financialnoob.substack.com/p/statistical-arbitrage-with-graph
-23. 
+23. https://financialnoob.substack.com/p/statistical-arbitrage-with-lead-lag
+24. 
